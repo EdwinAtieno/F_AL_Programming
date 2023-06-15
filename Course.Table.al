@@ -1,4 +1,4 @@
-table 50101 Course
+table 50102 "CRONUS Course"
 {
     DataClassification = CustomerContent;
     Caption = 'Course';

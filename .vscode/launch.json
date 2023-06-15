@@ -9,7 +9,7 @@
             "server": "http://localhost:8080/BC204",
             "serverInstance": "BC204",
             "authentication": "Windows",
-            "startupObjectId": 50101,
+            "startupObjectId": 50102,
             "startupObjectType": "Table",
             "breakOnError": "All",
             "port":2049,
